@@ -1,0 +1,36 @@
+.button {
+    font: 400 14px robotoSlab;
+    color: #1c182b;
+    background: none;
+    border: none;
+    cursor: pointer;
+    user-select: none;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: #E0E1F4;
+    background: #AEA3D7;
+    text-shadow: #7E6FB8 0 0 3px;
+}
+
+.button:active {
+    background: #a79cd1;
+}
+
+.button__text {
+    padding: 5px;
+}
+
+.button>label,
+.button>svg {
+    cursor: pointer;
+}
+
+.inputFile {
+    display: none;
+}
+
+.icon {
+    padding: 5px 0 5px 5px;
+}

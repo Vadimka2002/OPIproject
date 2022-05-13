@@ -1,0 +1,24 @@
+.toolbar {
+    display: flex;
+    width: 962px;    
+    background: #644fda;
+    padding: 10px;
+    box-shadow: 4px 8px 8px 0px #7e6fb87b;
+    height: 81px;
+    position: fixed;
+    top: 29px;
+    border-radius: 0 0 5px 0;
+}
+
+.toolbar > div {
+    margin-bottom: 7px;
+    
+}
+
+.toolbar > label {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font: 700 14px robotoSlab;
+    color: #1c182b;
+}

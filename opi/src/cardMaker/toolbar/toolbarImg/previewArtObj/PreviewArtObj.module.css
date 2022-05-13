@@ -1,0 +1,8 @@
+.sticker {
+    width: 50px;
+    cursor: pointer;
+}
+
+.sticker:hover {
+    background: #D6CFF4;
+}

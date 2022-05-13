@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 180px;
+    z-index: 1;
+    display: flex;
+    background: #644fda;
+    box-shadow: 0px 5px 10px -5px #644fda;
+    padding-left: 30px;
+}
+
+.panel {
+    width: 1024px;
+}
+
+.mainLabel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #d6cff4;
+    width: 180px;
+    height: 29px;
+    font: 400 25px robotoSlab;
+    color: #1c182b;
+    text-align: center;
+    vertical-align: center;
+}
